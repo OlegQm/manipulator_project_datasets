@@ -1,0 +1,16 @@
+nc: 8
+
+names:
+  0: apple
+  1: bird
+  2: bottle
+  3: dog
+  4: drone
+  5: knife
+  6: phone
+  7: raccoon
+
+path: datas/dataset_yolov8
+train: images/train
+val: images/valid
+test: images/test

@@ -1,0 +1,8 @@
+apple
+bird
+bottle
+dog
+drone
+knife
+phone
+raccoon
