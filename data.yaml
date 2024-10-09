@@ -1,4 +1,4 @@
-nc: 9
+nc: 14
 
 names:
   0: apple
@@ -10,6 +10,11 @@ names:
   6: cow
   7: raccoon
   8: deer
+  9: elephant
+  10: hedgehog
+  11: monkey
+  12: squirrel
+  13: tiger
 
 path: datas/ready
 train: images/train
