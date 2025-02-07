@@ -1,13 +1,17 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+nc: 9
 
-nc: 5
-names: ['bird', 'boar', 'cat', 'deer', 'monkey']
+names:
+  0: bird
+  1: boar
+  2: cat
+  3: deer
+  4: monkey
+  5: bear
+  6: dog
+  7: elephant
+  8: tiger
 
-roboflow:
-  workspace: oleh-savchenko
-  project: animals-6zgd5
-  version: 2
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/oleh-savchenko/animals-6zgd5/dataset/2
+path: datas/own-dataset
+train: train/images
+val: valid/images
+test: test/images
