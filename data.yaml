@@ -16,7 +16,7 @@ names:
   12: squirrel
   13: tiger
 
-path: datas/ready
+path: /home/olegqm/manipulator_project/programs/pt_to_hef_converter/manipulator_project_datasets
 train: images/train
 val: images/valid
 test: images/test

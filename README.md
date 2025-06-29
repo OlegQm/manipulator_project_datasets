@@ -29,11 +29,13 @@ Within each dataset folder:
     │   ├── test/
     │   └── valid/
     ├── coco-data.yaml
-    └── data.yaml   
+    ├── data.yaml
+    └── segments_to_bbox_converter.py
 ```
 
 * **data.yaml**: Configuration file describing the custom animal dataset (paths, classes, splits).
 * **coco-data.yaml**: Configuration file for the COCO dataset (for benchmarking and comparison).
+* **segments_to_bbox_converter.py**: Covert segment annotations to bounding boxes (useful for training). 
 
 ---
 
