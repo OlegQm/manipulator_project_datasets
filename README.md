@@ -10,9 +10,9 @@ This repository hosts multiple sets of labeled animal photographs, curated speci
 
 Each branch in this repository represents a distinct dataset:
 
-* **dataset-v1**, **dataset-v2**, **dataset-v3**: Complete collections of images and annotations.
+* **dataset-v1**, **dataset-v2**, **dataset-v3**, **dataset-v4**, **dataset-v5**: Complete collections of images and annotations.
 
-  * `dataset-v3` is the latest, most comprehensive version.
+  * `dataset-v5` is the latest, most comprehensive version.
 * **efficientdet-dataset**: Images and labels formatted specifically for EfficientDet models.
 * **own-dataset**: Photographs personally collected and annotated by Oleh Savchenko at two different zoos.
 
