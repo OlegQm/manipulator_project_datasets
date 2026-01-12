@@ -40,4 +40,4 @@ Within each dataset folder:
 ---
 
 <img width="1989" height="1114" alt="image" src="https://github.com/user-attachments/assets/30477dc3-462c-4305-872f-9b635afaea87" />
-<img width="1989" height="1114" alt="image" src="https://github.com/user-attachments/assets/c6c1b459-2ca1-4ee7-9f35-ba895bfae21f" />
+<img width="1744" height="976" alt="image" src="https://github.com/user-attachments/assets/d136eff7-d7b7-4ef3-a2ee-970f42b71684" />
